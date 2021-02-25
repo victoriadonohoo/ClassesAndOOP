@@ -1,5 +1,5 @@
 class Car:
-
+    
     def __init__(self, model, make):
         self.__yearmodel = model
         self.__make = make
